@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Claude
+Comment=Claude Web App
+Exec=google-chrome --app=https://claude.ai/
+Icon=/home/jorgeneilertsen/.local/share/icons/claude-ai.png
+Terminal=false
+Type=Application
+Categories=Network;
+StartupWMClass=claude.ai
