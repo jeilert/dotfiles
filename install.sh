@@ -5,6 +5,9 @@ echo ""
 
 USERNAME=$(whoami)
 
+# Install Google Chrome
+bash scripts/install-chrome.sh
+
 # Create directories
 mkdir -p ~/.local/bin
 mkdir -p ~/.local/share/applications
