@@ -27,28 +27,5 @@ Open the **Create Web App** app from the app grid and follow the prompts.
 ***
 ### Requirements
 * Fedora 43 with GNOME
-* Git installed (`sudo dnf install git`)# dotfiles for Fedora
-***
-### Contens
-Installs the following apps from packages:
-* Google Chrome
-* VS Code
-* Claude Code
+* Git installed (`sudo dnf install git`)
 
-#####  Creates a custom app to create web apps in chrome
-
-Installs these custom web apps in chrome:
-* Outlook
-* Slack
-* Claude AI
-
-***
-
-### Correct usage on fresh install
-
-1. ```git clone https://github.com/jeilert/dotfiles.git ~/.dotfiles```
-2. ```cd ~/.dotfiles```
-3. ```bash install.sh```
-
-
-***
