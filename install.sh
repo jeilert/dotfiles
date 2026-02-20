@@ -5,6 +5,9 @@ echo ""
 
 USERNAME=$(whoami)
 
+# Install Visual Studio Code
+bash scripts/install-vscode.sh
+
 # Install Google Chrome
 bash scripts/install-chrome.sh
 
