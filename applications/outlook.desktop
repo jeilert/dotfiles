@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Outlook
+Comment=Microsoft Outlook Web App
+Exec=google-chrome --app=https://outlook.office.com/mail/
+Icon=/home/jorgeneilertsen/.local/share/icons/outlook.png
+Terminal=false
+Type=Application
+Categories=Network;Email;
+MimeType=x-scheme-handler/mailto;
+StartupWMClass=outlook.live.com
+

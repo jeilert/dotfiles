@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Create Web App
+Comment=Create a new web app shortcut
+Exec=ptyxis -- /home/jorgeneilertsen/.local/bin/create-webapp.sh
+Icon=/home/jorgeneilertsen/.local/share/icons/create-webapp.png
+Terminal=false
+Type=Application
+Categories=System;

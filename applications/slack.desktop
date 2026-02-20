@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Slack
+Comment=Slack Web App
+Exec=google-chrome --app=https://app.slack.com/client/
+Icon=/home/jorgeneilertsen/.local/share/icons/slack.png
+Terminal=false
+Type=Application
+Categories=Network;
+StartupWMClass=app.slack.com
