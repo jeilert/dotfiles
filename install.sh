@@ -5,11 +5,17 @@ echo ""
 
 USERNAME=$(whoami)
 
+# Always run from the dotfiles directory
+cd "$(dirname "$0")"
+
 # Install Visual Studio Code
 bash scripts/install-vscode.sh
 
 # Install Google Chrome
 bash scripts/install-chrome.sh
+
+# Install Claude Code
+bash scripts/install-claude-code.sh
 
 # Create directories
 mkdir -p ~/.local/bin
